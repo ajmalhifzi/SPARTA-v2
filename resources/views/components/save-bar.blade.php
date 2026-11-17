@@ -1,0 +1,2 @@
+@props(['label'=>'Simpan draf'])
+<div class="save-bar no-print"><p class="save-status" role="status" x-text="saving ? 'Menyimpan draf…' : (dirty ? 'Ada perubahan belum disimpan' : 'Draf boleh disimpan pada bila-bila masa')">Draf boleh disimpan pada bila-bila masa</p><button class="button primary" type="submit" :disabled="saving"><x-icon name="device-floppy"/><span x-text="saving ? 'Menyimpan…' : '{{ $label }}'">{{ $label }}</span></button></div>

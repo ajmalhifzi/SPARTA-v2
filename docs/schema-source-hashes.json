@@ -1,0 +1,14 @@
+[
+  {
+    "Path": "C:\\Users\\hifzi\\Documents\\Codex\\2026-11-03\\referenced-chatgpt-conversation-this-is-an\\outputs\\kvsp1-pta1-postgresql\\migrations\\000_bootstrap.sql",
+    "Hash": "84ED73063CC373A9F2090FAE907D180525BBA0476DE338C3C7A33C91E20B257A"
+  },
+  {
+    "Path": "C:\\Users\\hifzi\\Documents\\Codex\\2026-11-03\\referenced-chatgpt-conversation-this-is-an\\outputs\\kvsp1-pta1-postgresql\\migrations\\001_schema.sql",
+    "Hash": "B2C243DA7E20E460FD7786D68ED9A562CE932203B0460521094F12AE7E47528C"
+  },
+  {
+    "Path": "C:\\Users\\hifzi\\Documents\\Codex\\2026-11-03\\referenced-chatgpt-conversation-this-is-an\\outputs\\kvsp1-pta1-postgresql\\migrations\\002_reference_seed.sql",
+    "Hash": "81E826652A898884668309726C2689FDB8DC632037D7C13ED96E06477E6C40A5"
+  }
+]
